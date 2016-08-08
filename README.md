@@ -1,1 +1,1 @@
-# devenv
+DRY - dev env
